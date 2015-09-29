@@ -1,3 +1,7 @@
 [submodule "JS/AngularJS"]
 	path = JS/AngularJS
 	url = https://github.com/angular/angular-seed.git
+
+[submodule "Python/pyspider"]
+    path = Python/pyspider
+    url =  https://github.com/tianzhidao28/pyspider.git
